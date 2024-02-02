@@ -1,5 +1,5 @@
 #EXTINF:0, group-title="LOKAL",RCTI
-http://103.113.116.150:25461/mtm1/12345/5
+http://103.113.116.150:25461/mtm1/12345/5 tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png"
 
 #EXTINF:0, group-title="LOKAL",MNCTV HD
 http://103.113.116.150:25461/mtm1/12345/6
@@ -21,3 +21,12 @@ http://103.113.116.150:25461/mtm1/12345/13
 
 #EXTINF:0, group-title="LOKAL",TRANS7
 http://202.80.222.174/000001/2/ch14041511545447343123/index.m3u8?virtualDomain=000001.live_hls.zte.com
+
+#EXTINF:0, group-title="LOKAL", TV ONE
+http://103.113.116.150:25461/mtm1/12345/9
+
+#EXTINF:0, group-title="LOKAL",METRO TV
+http://103.113.116.150:25461/mtm1/12345/12
+
+#EXTINF:0, group-title="LOKAL",KOMPAS TV
+http://103.113.116.150:25461/mtm1/12345/13
