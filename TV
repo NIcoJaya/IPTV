@@ -1,4 +1,4 @@
-#EXTINF:0, group-title="LOKAL",RCTI
+#EXTINF:0, group-title="LOKAL",RCTI tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_80.png"
 http://103.113.116.150:25461/mtm1/12345/5
 
 #EXTINF:0, group-title="LOKAL",MNCTV HD
