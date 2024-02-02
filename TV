@@ -1,0 +1,17 @@
+#EXTINF:0, group-title="LOKAL",RCTI
+http://103.113.116.150:25461/mtm1/12345/5
+
+#EXTINF:0, group-title="LOKAL",MNCTV HD
+http://103.113.116.150:25461/mtm1/12345/6
+
+#EXTINF:0, group-title="LOKAL",GTV
+http://103.113.116.150:25461/mtm1/12345/7
+
+#EXTINF:0, group-title="LOKAL",TRANS TV HD
+http://103.113.116.150:25461/mtm1/12345/2
+
+#EXTINF:0, group-title="LOKAL",NET TV HD
+http://103.113.116.150:25461/mtm1/12345/11
+
+#EXTINF:0, group-title="LOKAL",ANTV
+http://103.113.116.150:25461/mtm1/12345/10
